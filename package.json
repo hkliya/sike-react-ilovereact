@@ -9,6 +9,11 @@
   "author": "Seaborn Lee",
   "license": "ISC",
   "dependencies": {
-    "browser-sync": "^2.11.0"
+    "browser-sync": "^2.11.0",
+    "postcss-import": "^7.1.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.0.2",
+    "postcss-cli": "^2.1.0"
   }
 }
